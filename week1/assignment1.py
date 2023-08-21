@@ -2,12 +2,12 @@
 import math
 from tabulate import tabulate
 
-# tehtava 1 a)
+# tehtava week1 a)
 
 asteet = math.degrees(2.493)
 print(f"Tehtävä 1. a) {int(asteet)}°")
 
-# 1 b)
+# week1 b)
 
 asteet = math.degrees(0.911)
 print(f"Tehtävä 1. b) {int(asteet)}°")
